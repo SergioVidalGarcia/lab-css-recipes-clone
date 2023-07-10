@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Belanosima:wght@600&display=swap");
+header {
+  background-image: url(/apple-pie/images/apple-pie.jpg);
+  text-align: center;
+  color: white;
+  border: 3px solid green;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 12px;
+  padding: 10px 10px 500px 10px;
+}
+p {
+  text-align: center;
+  font-family: "Lora", serif;
+  margin-bottom: 50px;
+}
+
+ul {
+  text-align: left;
+  color: blue;
+  margin: 50px;
+}
+
+ol {
+  text-align: left;
+  color: green;
+  margin: 50px;
+}
+
+.estilo-titulos {
+  font-family: "Belanosima", sans-serif;
+}
+
+#estilo-listas {
+  font-family: "Lora", serif;
+}
+
+h3 {
+  margin: 50px;
+}
+
+h1 {
+  padding: 10px 10px 10px 10px;
+  font-size: 100px;
+  font-family: "Belanosima", sans-serif;
+  text-align: center;
+}
